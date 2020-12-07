@@ -20,7 +20,7 @@ export default function LineChart() {
             label: new Date().getFullYear(),
             backgroundColor: "#4c51bf",
             borderColor: "#4c51bf",
-            data: [65, 78, 66, 44, 56, 67, 75],
+            data: [65, 20, 66, 44, 56, 67, 75],
             fill: false
           },
           {
